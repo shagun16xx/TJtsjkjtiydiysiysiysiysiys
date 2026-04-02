@@ -14,7 +14,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 
 # --- Configuration (Fill in your details) ---
-YOUR_BOT_TOKEN = 8717443510:AAFfOZMRKCHw3L1uIHOcBEex4Wu6rJQqoTk""
+YOUR_BOT_TOKEN = "8717443510:AAFfOZMRKCHw3L1uIHOcBEex4Wu6rJQqoTk"
 
 # ==================== Multiple Admin IDs ====================
 ADMIN_CHAT_IDS = ["8544485437"]
